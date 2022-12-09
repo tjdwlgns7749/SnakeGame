@@ -54,7 +54,7 @@ enum을 통해 뱀의 방향(상태)를 저장
 
 
 실제 플레이 영상
-https://youtu.be/U6QiowpcfV0
+https://youtu.be/wZTTPIDpW8A
 
 다운로드
-https://github.com/tjdwlgns7749/SnakeGame
+http://naver.me/GD5Nq9z8
