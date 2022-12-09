@@ -4,7 +4,7 @@ C++ 을 활용해서 만든 오목게임 입니다.
 
 **클래스 구성**
 
-![오목 클래스](https://user-images.githubusercontent.com/82795868/206744899-30c97324-5a8c-4ab3-8e74-e1248a625a97.png)
+![뱀게임 클래스](https://user-images.githubusercontent.com/82795868/206752972-001de5d5-6d8d-4449-b5af-e26f92a4d1fb.png)
 
 **소스.cpp**
 
