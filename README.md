@@ -12,13 +12,14 @@ PlayerManager를 객체로 1개 생성하여 게임시작
 
 
 **Block.cpp / Block.h**
+
 ![이미지1](https://user-images.githubusercontent.com/82795868/206752721-e1676071-7545-4435-8e7d-d8f2ae1c6259.png)
 
-Player를 멤버로 가지고 있으며 
-맵의 크기 턴을 가지고 게임의 전체적인 흐름과 
-MapDraw에 구현한 함수들을 호출하여 
-메뉴와 게임화면을 그리도록 관리하고있다. 
+구조체를 활용하여 블럭모양 / 블럭종류 / 현재좌표 / 이전좌표를 저장
 
+![이미지2](https://user-images.githubusercontent.com/82795868/206752881-679a635b-ed40-46dc-801f-fa707234d53c.png)
+
+연결리스트로 맵 테두리 블록 / 장애물블록 / 음식블록 관리하며 음식의 수(10개 제한)와 리젠시간 관리
 
 
 **Player.cpp Player.h**
